@@ -1,16 +1,46 @@
-# React + Vite
+🌦️ Weather Forecast App
+--------------------------
+A clean and modern weather application built with React + Tailwind CSS, featuring a frosted-glass UI and real-time weather data powered by the OpenWeatherMap API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app allows users to search any city worldwide and instantly view its temperature, wind speed, humidity, and current weather conditions — all displayed inside a sleek, translucent card over a high-quality background image.
 
-Currently, two official plugins are available:
+✨ Features
+-----------------
+🔍 Live Weather Search
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Type any city name and instantly fetch accurate weather data using the OpenWeatherMap REST API.
 
-## React Compiler
+🧊 Modern Frosted-Glass UI
+-----------------------------
+The app uses:
+soft translucent layers
+rounded-corner cards
+minimal blur
+subtle UI rings
+smooth interactions
+This creates a premium dashboard-like aesthetic.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🌡️ Detailed Weather Display
+---------------------------------
+For each city, the card shows:
+Temperature (°C)
+Weather condition (e.g. cloudy, clear sky, rain)
+Wind speed
+Humidity
+Formatted date
 
-## Expanding the ESLint configuration
+⚡ Fast & Fully Responsive
+-------------------------------
+The layout adapts perfectly to mobile, tablet, and desktop screens.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🖼️ High-Quality Background
+-----------------------------
+The entire UI sits on a full-screen HD image, giving the app a clean and immersive look.
+
+🛠️ Tech Stack
+----------------
+React + Vite
+Tailwind CSS
+OpenWeatherMap API
+Lucide React Icons
+
