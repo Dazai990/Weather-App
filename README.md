@@ -1,6 +1,7 @@
 🌦️ Weather Forecast App
 --------------------------
-A clean and modern weather application built with React + Tailwind CSS, featuring a frosted-glass UI and real-time weather data powered by the OpenWeatherMap API. Websites Link: https://frostweather.netlify.app/
+A clean and modern weather application built with React + Tailwind CSS, featuring a frosted-glass UI and real-time weather data powered by the OpenWeatherMap API.
+Websites Link: https://frostweather.netlify.app/
 
 This app allows users to search any city worldwide and instantly view its temperature, wind speed, humidity, and current weather conditions — all displayed inside a sleek, translucent card over a high-quality background image.
 
