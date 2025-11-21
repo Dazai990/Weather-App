@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.font-cabinet {
+font-family: 'Gambarino', serif;
+} 
+
+.font-author{
+font-family: 'Author', sans-serif;
+
+}
